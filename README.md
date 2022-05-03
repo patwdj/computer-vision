@@ -8,9 +8,9 @@ Spring Semester 2022.
 
 # Includes:
 
-(1) **Lambertian Sphere Renderer**: Creates a picture of a shaded sphere given illumination direction.
+**(1) Lambertian Sphere Renderer**: Creates a picture of a shaded sphere given illumination direction.
 
-(2) **Simple 3D Image Renderer:** Transform a cube's 3D coordinates into a 2D picture viewed from a camera given position and orientation.
+**(2) Simple 3D Image Renderer:** Transform a cube's 3D coordinates into a 2D picture viewed from a camera given position and orientation.
 
-(3) **Minimum Eigenvalue and Harris Corner Detectors:** Implement corner detectors for image, plots and compares times.
+**(3) Minimum Eigenvalue and Harris Corner Detectors:** Implement corner detectors for image, plots and compares times.
 
